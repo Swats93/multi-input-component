@@ -1,0 +1,16 @@
+{
+  "name": "bene-studio-application",
+  "description": "bene-studio-application",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "gatsby": "^1.9.277",
+    "gatsby-link": "^1.6.46",
+    "prop-types": "^15.6.2",
+    "tachyons": "^4.11.1"
+  }
+}
